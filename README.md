@@ -1,4 +1,4 @@
-# central-blinds-managment
+# central-blinds-management
 
 Hi, 
 My name is Bruno Lemos, 
